@@ -2,7 +2,7 @@
 public class tryb {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Try number 2 in connecting this with Github");
 
 	}
 
